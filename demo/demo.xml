@@ -1,18 +1,4 @@
 <openerp>
     <data>
-        <record model="dietfacts.restaurant" id="course0">
-            <field name="name">Burguer King</field>
-            <field name="description">Burger King Description
-
-            </field>
-        </record>
-        <record model="dietfacts.restaurant" id="course1">
-            <field name="name">Padaria Lareira</field>
-            <!-- no description for this one -->
-        </record>
-        <record model="dietfacts.restaurant" id="course2">
-            <field name="name">Outra Padaria</field>
-            <field name="description">Outra Padaria description</field>
-        </record>
     </data>
 </openerp>
